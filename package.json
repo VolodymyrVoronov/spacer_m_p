@@ -1,13 +1,20 @@
 {
   "name": "spacer_m_p",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Spacer for margin or padding",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": [
+    "css",
+    "scss",
+    "styledComponents",
+    "js",
+    "jsInCss",
+    "styles"
+  ],
   "author": "",
   "license": "ISC"
 }
