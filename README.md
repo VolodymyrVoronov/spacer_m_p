@@ -31,4 +31,4 @@ By default **getSpace()** returns **24px** (string);
 - 7 => 48
 - 8 => 64
 - 9 => 96
-- 10 = > 160
+- 10 => 160
