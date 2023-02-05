@@ -1,6 +1,6 @@
 {
   "name": "spacer_m_p",
-  "version": "2.0.6",
+  "version": "2.0.7",
   "description": "Spacer for margin or padding",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
