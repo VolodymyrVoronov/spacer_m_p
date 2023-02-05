@@ -10,8 +10,8 @@ Run `npm i spacer_m_p` or `yarn add spacer_m_p`
 
 import getSpace from "spacer_m_p";
 
-- Option 1: **getSpace(1, true)** returns **4px** (string);
-- Option 2: **getSpace(1)** returns **4** (number);
+- Option 1: **getSpace(1)** returns **4px** (string);
+- Option 2: **getSpace(1, false)** returns **4** (number);
 - Option 3: **getSpace()** returns **24px** (string);
 
 ## Parameters
