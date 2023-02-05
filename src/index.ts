@@ -1,4 +1,6 @@
-const getSpace = (spacer: number = 5, withPx: boolean = true): string | number => {
+type Spacer = 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10;
+
+const getSpace = (spacer: Spacer = 5, withPx: boolean = true): string | number => {
   let gap;
 
   if (spacer >= 1 && spacer <= 10) {
