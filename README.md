@@ -49,18 +49,3 @@ By default **getSpace()** returns **24px** (string);
 |getSpace(8, true)| 8 | "64px" |
 |getSpace(9, true)| 9 | "96px" |
 |getSpace(10, true)| 10 | "160px" |
-
-------------
-
-|Function| Spacer | Return value: string (if withPx no provided, by default it is true) |
-|------| ------ | ------ |
-|getSpace(1)| 1 | "4px" |
-|getSpace(2)| 2 | "8px" |
-|getSpace(3)| 3 | "16px" |
-|getSpace(4)| 4 | "20px" |
-|getSpace(5)| 5 | "24px" |
-|getSpace(6)| 6 | "32px" |
-|getSpace(7)| 7 | "48px" |
-|getSpace(8)| 8 | "64px" |
-|getSpace(9)| 9 | "96px" |
-|getSpace(10)| 10 | "160px" |
