@@ -22,13 +22,30 @@ By default **getSpace()** returns **24px** (string);
 
 #### Spacings, which function may accept and values, which will be returned:
 
-- 1 => 4
-- 2 => 8
-- 3 => 16
-- 4 => 20
-- 5 => 24
-- 6 => 32
-- 7 => 48
-- 8 => 64
-- 9 => 96
-- 10 => 160
+| Spacer | Return value: number (if withPx: false) |
+| ------ | ------ |
+| 1 | 4 |
+| 2 | 8 |
+| 3 | 16 |
+| 4 | 20 |
+| 5 | 24 |
+| 6 | 32 |
+| 7 | 48 |
+| 8 | 64 |
+| 9 | 96 |
+| 10 | 160 |
+
+------------
+
+| Spacer | Return value: string (if withPx: true) |
+| ------ | ------ |
+| 1 | "4px" |
+| 2 | "8px" |
+| 3 | "16px" |
+| 4 | "20px" |
+| 5 | "24px" |
+| 6 | "32px" |
+| 7 | "48px" |
+| 8 | "64px" |
+| 9 | "96px" |
+| 10 | "160px" |
